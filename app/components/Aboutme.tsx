@@ -110,7 +110,7 @@ const Aboutme = () => {
             My Project
           </p>
           <div className="nes-container">
-            Now I'm lazy. Will add more information another day.
+            Now Im lazy. Will add more information another day.
           </div>
         </div>
       </div>
